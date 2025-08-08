@@ -25,7 +25,7 @@ The project utilizes historical financial data from three key assets:
 - Vanguard Total Bond Market ETF (BND): Stable bond ETF for risk management
 - S&P 500 ETF (SPY): Broad market exposure through index tracking
 
-Data period: January 1, 2015 - December 31, 2024
+Data period: January 1, 2015 - December 31, 2025
 Source: YFinance API
 
 ## Project Structure
@@ -81,7 +81,7 @@ Source: YFinance API
 
 ```bash
 # Clone the repository
-git clone https://github.com/OL-YAD/portfolio-optimization-forecasting.git
+git clone https://github.com/Wagarimisganu-github/portfolio-optimization-forecasting.git
 
 # Navigate to project directory
 cd portfolio-optimization-forecasting
@@ -106,8 +106,8 @@ The project generates:
 ## Contact
 
 For questions and feedback:
-- Email: olyadtemesgen@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/olyad-temesgen/]
+- Email: wagarimisganu12@gmail.com
+
 
 
 
